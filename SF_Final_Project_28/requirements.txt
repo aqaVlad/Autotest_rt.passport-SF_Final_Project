@@ -1,0 +1,5 @@
+pytest~=6.2.5
+pytest-selenium
+selenium~=4.7.2
+termcolor
+2captcha-python
