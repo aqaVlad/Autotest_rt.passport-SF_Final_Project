@@ -15,23 +15,23 @@
 <h3>Содержание файлов:</h3>
 </div>
        
-- [conftest.py](SF_Final_Project_28/conftest.py) - фикстура для открытия браузера и запуска веб-драйвера
+- [conftest.py](Autotest_rt.passport-SF_Final_Project/conftest.py) - фикстура для открытия браузера и запуска веб-драйвера
 
-- [config.py](SF_Final_Project_28/config.py) - переменные, содержащие данные для тестов и параметризации
+- [config.py](Autotest_rt.passport-SF_Final_Project/config.py) - переменные, содержащие данные для тестов и параметризации
 
-- [base.py](SF_Final_Project_28/base.py) - базовый клаас с функциямии и используемыми методами
+- [base.py](Autotest_rt.passport-SF_Final_Project/base.py) - базовый клаас с функциямии и используемыми методами
 
-- [rt_passport_reg.py](SF_Final_Project_28/rt_passport_reg.py), [rt_passport_auth.py](SF_Final_Project_28/rt_passport_auth.py), [rt_passport_pass_rec.py](SF_Final_Project_28/rt_passport_pass_rec.py) - локаторы и порядок действий, оформленный в функции, соответственно для страниц регистрации, авторизации и восстановления пароля
+- [rt_passport_reg.py](Autotest_rt.passport-SF_Final_Project/rt_passport_reg.py), [rt_passport_auth.py](Autotest_rt.passport-SF_Final_Project/rt_passport_auth.py), [rt_passport_pass_rec.py](Autotest_rt.passport-SF_Final_Project/rt_passport_pass_rec.py) - локаторы и порядок действий, оформленный в функции, соответственно для страниц регистрации, авторизации и восстановления пароля
 
-- [test_rt_reg.py](SF_Final_Project_28/test_rt_reg.py), [test_rt_auth.py](SF_Final_Project_28/test_rt_auth.py), [test_rt_pass_rec.py](SF_Final_Project_28/test_rt_pass_rec.py) - тесты, представленные в виде последовательных команд и проверки ожиданий, соответственно для страниц регистрации, авторизации и восстановления пароля
+- [test_rt_reg.py](Autotest_rt.passport-SF_Final_Project/test_rt_reg.py), [test_rt_auth.py](Autotest_rt.passport-SF_Final_Project/test_rt_auth.py), [test_rt_pass_rec.py](Autotest_rt.passport-SF_Final_Project/test_rt_pass_rec.py) - тесты, представленные в виде последовательных команд и проверки ожиданий, соответственно для страниц регистрации, авторизации и восстановления пароля
 
-- [requirements.txt](SF_Final_Project_28/requirements.txt) - список используемых библиотек Python
+- [requirements.txt](Autotest_rt.passport-SF_Final_Project/requirements.txt) - список используемых библиотек Python
 
-- [edgedriver.exe](SF_Final_Project_28/edgedriver.exe) - Selenium WebDriver для браузера MS Edge v.108
+- [edgedriver.exe](Autotest_rt.passport-SF_Final_Project/edgedriver.exe) - Selenium WebDriver для браузера MS Edge v.108
 
-- [Test cases._Bug reports.xlsx](SF_Final_Project_28/Test cases._Bug reports.xlsx) - набор тестовых сценариев и проверок, а также отчеты по обнаруженным дефектам и недочетам
+- [Test cases._Bug reports.xlsx](Autotest_rt.passport-SF_Final_Project/Test cases._Bug reports.xlsx) - набор тестовых сценариев и проверок, а также отчеты по обнаруженным дефектам и недочетам
 
-- [Requirements_testing.docx](SF_Final_Project_28/Requirements_testing.docx) - сравнение и сопоставление ожидаемых условий с реальным фактическим результатом, а также качества функционала
+- [Requirements_testing.docx](Autotest_rt.passport-SF_Final_Project/Requirements_testing.docx) - сравнение и сопоставление ожидаемых условий с реальным фактическим результатом, а также качества функционала
 
 - папка `screenshots` - директория для сохранения скриншотов по итогам каждого теста (указана в пути при создании файлов)
 <br>
