@@ -29,7 +29,7 @@
 
 - [edgedriver.exe](SF_Final_Project_28/edgedriver.exe) - Selenium WebDriver для браузера MS Edge v.108
 
-- [Test cases._Bug reports.xlsx](SF_Final_Project_28/Test cases._Bug reports.xlsx) - набор тестовых сценариев и проверок, а также отчеты по обнаруженным дефектам и недочетам
+- [Test_cases._Bug_reports.xlsx](SF_Final_Project_28/Test_cases._Bug_reports.xlsx) - набор тестовых сценариев и проверок, а также отчеты по обнаруженным дефектам и недочетам
 
 - [Requirements_testing.docx](SF_Final_Project_28/Requirements_testing.docx) - сравнение и сопоставление ожидаемых условий с реальным фактическим результатом, а также качества функционала
 
